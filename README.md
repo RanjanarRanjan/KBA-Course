@@ -59,8 +59,9 @@ Once the setup is complete, open your browser and go to:
 http://localhost:5000
 ```
 
-### 📽️ Demo Video
-https://youtu.be/rCq1hmRu0gE
+### 📽️ Demo Video  
+[![Watch the video](https://img.youtube.com/vi/rCq1hmRu0gE/0.jpg)](https://www.youtube.com/watch?v=rCq1hmRu0gE)
+
 ---
 Enjoy managing courses seamlessly! 🚀
 
