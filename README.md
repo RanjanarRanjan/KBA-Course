@@ -60,7 +60,7 @@ http://localhost:5000
 ```
 
 ### 📽️ Demo Video
-
+https://youtu.be/rCq1hmRu0gE
 ---
 Enjoy managing courses seamlessly! 🚀
 
